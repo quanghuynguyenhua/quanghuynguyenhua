@@ -1,5 +1,5 @@
 <div align="center">
-  <img src='./asset/animation'>
+  <img src='./asset/animation.json'>
   <br>
   <a href="https://www.linkedin.com/in/quanghuynghua/">
     <img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" alt="LinkedIn">
