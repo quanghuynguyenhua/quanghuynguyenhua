@@ -46,7 +46,7 @@
 
 ### My Projects:
 
-<a href= "https://github.com/quanghuynguyenhua/Minard-Map">A contemporary re-design of notable Minard Map</a>
+<a href= "https://github.com/quanghuynguyenhua/Minard-Map">A re-design of notable Minard Map using contemporary interactive method</a>
 
 <br />
 <br />
