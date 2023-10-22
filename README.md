@@ -11,18 +11,17 @@
 ```json
 {
   "Name"     : "Huy Nguyen",
-  "Degree"   : "B.E of Mechatronics Eng", "M.Sc of Mechanical Eng", "M.Eng of Business Analytics & AI"
-  "Location" : "Montreal"",
-  "Qoute"    : "📚"
+  "Degree"   : "M.Eng of Business Analytics & AI (On-going)", "M.Sc of Mechanical Eng", "B.E of Mechatronics Eng"
+  "Location" : "Montreal""
 }
 ```
 
-### Hi, I'm Huy Nguyen - aka [HN][website] = Data Analyst 🌱 
+### Hi, I'm Huy Nguyen - Pursuing a Master of Business Analytics and AI🌱 
 
 
-- 🔭 I'm passionate about Machine Learning and Data Science
+- 🔭 I'm passionate about Machine Learning and Data Science, leveraging data-driven insights and advanced analytics to drive innovation and efficiency in the energy sector
 - 🥅 Favorite Quote: ...
-- ⚡ Fun fact:
+- ⚡ Fun fact: I have been working in Oil and Gas field before diving into Data Science.
 
 ### :zap: GitHub Stats
 
