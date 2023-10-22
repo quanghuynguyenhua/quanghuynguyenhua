@@ -44,6 +44,13 @@
 <br />
 <br />
 
+### My Projects:
+
+<a href= "https://github.com/quanghuynguyenhua/Minard-Map">A contemporary re-design of notable Minard Map</a>
+
+<br />
+<br />
+
 ---
 
 ### 📫 Contact me via:
