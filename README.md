@@ -16,7 +16,7 @@
 }
 ```
 
-### Hi, I'm Huy Nguyen - Pursuing a Master of Business Analytics and AI🌱 
+### Hi, I'm Huy Nguyen - currently pursuing a Master of Business Analytics and AI🌱 
 
 
 - 🔭 I'm passionate about Machine Learning and Data Science, leveraging data-driven insights and advanced analytics to drive innovation and efficiency in the energy sector
