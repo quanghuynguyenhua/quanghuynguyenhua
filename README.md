@@ -12,7 +12,7 @@
 {
   "Name"     : "Huy Nguyen",
   "Degree"   : "M.Eng of Business Analytics & AI (On-going)", "M.Sc of Mechanical Eng", "B.E of Mechatronics Eng"
-  "Location" : "Montreal""
+  "Location" : "Montreal" (Willing to relocate)
 }
 ```
 
@@ -20,7 +20,7 @@
 
 
 - 🔭 I'm passionate about Machine Learning and Data Science, leveraging data-driven insights and advanced analytics to drive innovation and efficiency in the energy sector
-- 🥅 Favorite Quote: ...
+- 🥅 Favorite Quote: "AI is not a science fiction; it is a science about decisions." - Dmitry Vetrov
 - ⚡ Fun fact: I have been working in Oil and Gas field before diving into Data Science.
 
 ### :zap: GitHub Stats
@@ -47,6 +47,9 @@
 ### My Projects:
 
 <a href= "https://github.com/quanghuynguyenhua/Minard-Map">A re-design of notable Minard Map using contemporary interactive method</a>
+<a href= "https://github.com/quanghuynguyenhua/Minard-Map">A deceptive graph</a>
+<a href= "https://github.com/quanghuynguyenhua/Minard-Map">Analyze the impact of student demographics and school characteristics on academic achievement</a>
+...
 
 <br />
 <br />
