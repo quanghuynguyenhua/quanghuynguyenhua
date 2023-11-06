@@ -47,6 +47,9 @@
 ### My Projects:
 
 <a href= "https://github.com/quanghuynguyenhua/Minard-Map">A re-design of notable Minard Map using contemporary interactive method</a><br>
+<a href= "https://public.tableau.com/views/world-population_16992891538170/WorldPopulation?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link">Analyzing World Population</a><br>
+
+
 <a href= "https://github.com/quanghuynguyenhua/Minard-Map">A deceptive graph</a><br>
 <a href= "https://github.com/quanghuynguyenhua/Ontario-Student-Demographics">Analyze the impact of student demographics and school characteristics on academic achievement</a><br>
 ...
