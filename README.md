@@ -48,8 +48,8 @@
 
 <a href= "https://github.com/quanghuynguyenhua/Minard-Map">A re-design of notable Minard Map using contemporary interactive method</a><br>
 <a href= "https://github.com/quanghuynguyenhua/Analyzing-World-Population">Analyzing World Population</a><br>
-<a href= "https://github.com/quanghuynguyenhua/Minard-Map">A deceptive graph</a><br>
 <a href= "https://github.com/quanghuynguyenhua/Ontario-Student-Demographics">Analyze the impact of student demographics and school characteristics on academic achievement</a><br>
+<a href= "https://github.com/quanghuynguyenhua/Minard-Map">A deceptive graph</a><br>
 ...
 
 <br />
