@@ -49,8 +49,8 @@
 
 <a href= "https://github.com/quanghuynguyenhua/Minard-Map">A re-design of notable Minard Map using contemporary interactive method</a><br>
 <a href= "https://github.com/quanghuynguyenhua/Analyzing-World-Population">Analyzing World Population</a><br>
-<a href= "https://github.com/quanghuynguyenhua/Ontario-Student-Demographics">Analyze the impact of student demographics and school characteristics on academic achievement</a><br>
-<a href= "https://github.com/quanghuynguyenhua/Minard-Map">A deceptive graph</a><br>
+<a href= "https://ontechu-oira.shorthandstories.com/funding-distribution-strategy-of-ontario-schools/">What is the best funding distribution strategy for Ontario schools?</a><br>
+<a href= "https://github.com/quanghuynguyenhua/trading-strategy">Stock trading (On-going)</a><br>
 ...
 
 <br />
