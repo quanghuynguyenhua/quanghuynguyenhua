@@ -13,7 +13,6 @@
   "Name"     : "Huy Nguyen",
   "Degree"   : "M.Eng of Business Analytics & AI (On-going)", "M.Sc of Mechanical Eng", "B.E of Mechatronics Eng"
   "Location" : "Montreal"
-  "Portfolio" : <a href="https://quanghuynguyenhua.github.io/Portfolio/">"Recent Projects"</a>
 }
 ```
 
@@ -23,6 +22,7 @@
 - 🔭 I'm passionate about Machine Learning and Data Science, leveraging data-driven insights and advanced analytics to drive innovation and efficiency in the energy sector
 - 🥅 Favorite Quote: "AI is not a science fiction; it is a science about decisions." - Dmitry Vetrov
 - ⚡ Fun fact: I have been working in Oil and Gas field before diving into Data Science.
+-  You could explore my Portfolio <a href="">[here](https://quanghuynguyenhua.github.io/Portfolio/)</a>!
 
 ### :zap: GitHub Stats
 
