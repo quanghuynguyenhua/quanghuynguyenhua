@@ -13,6 +13,7 @@
   "Name"     : "Huy Nguyen",
   "Degree"   : "M.Eng of Business Analytics & AI (On-going)", "M.Sc of Mechanical Eng", "B.E of Mechatronics Eng"
   "Location" : "Montreal"
+  "Portfolio" : <a href="https://quanghuynguyenhua.github.io/Portfolio/">"Recent Projects"</a>
 }
 ```
 
