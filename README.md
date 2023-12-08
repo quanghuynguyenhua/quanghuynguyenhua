@@ -11,8 +11,8 @@
 ```json
 {
   "Name"     : "Huy Nguyen",
-  "Degree"   : "Master of Business Analytics & AI (Pursuing)" | "M.Sc of Mechanical Eng", "B.E of Mechatronics Eng" 
-  "Location" : "Montreal" "Toronto"
+  "Degree"   : "Master of Business Analytics & AI, Canada (Pursuing)", "M.Sc in Mechanical Eng., S.Korea", "B.E in Mechatronics Eng., Vietnam" 
+  "Location" : "Montreal", "Toronto"
 }
 ```
 
